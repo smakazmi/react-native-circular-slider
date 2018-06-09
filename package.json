@@ -31,16 +31,16 @@
   ],
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/bgryszko/react-native-circular-slider/issues"
+    "url": "https://github.com/smakazmi/react-native-circular-slider/issues"
   },
-  "homepage": "https://github.com/bgryszko/react-native-circular-slider",
+  "homepage": "https://github.com/smakazmi/react-native-circular-slider",
   "dependencies": {
     "d3-interpolate": "^1.1.2",
-    "lodash.range": "^3.2.0",
-    "react-native-svg": "^5.1.5"
+    "lodash.range": "^3.2.0"
   },
   "peerDependencies": {
     "react-native": ">=0.40.0",
-    "react": ">=15.4.0"
+    "react": ">=15.4.0",
+    "react-native-svg": "^5.1.5"
   }
 }
